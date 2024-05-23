@@ -1,4 +1,4 @@
-# This site based on [Community-Archive Jekyll Theme](https://community-archive.kalanicraig.com/)
+# This site based on [The Digital Arc platform Jekyll Theme]([https://digital.kalanicraig.com/](http://digitalarcplatform.kalanicraig.com))
 
 [![LICENSE](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue)](https://raw.githubusercontent.com/kalanicraig/community-archive/main/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-blue.svg)](https://jekyllrb.com/)
