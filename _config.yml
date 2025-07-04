@@ -1,14 +1,14 @@
 ##############################################
-# START YOUR CONFIGURATION HERE! For more info, visit https://digitalarcplatform.kalanicraig.com/quickstart
+# START YOUR CONFIGURATION HERE! For more info, visit https://digitalarcplatform.github.io/documentation/docs/publishSite/
 #---------------------
 # THEME. The following 3 lines don't need to change
 #---------------------
-remote_theme: kalanicraig/digitalarcplatform@v0.9.0-beta.1
+remote_theme: kalanicraig/digitalarcplatform@v1.0.0 #updated 4 Jul 2025
 repository: 'digitalarcplatform/demo' # change this to your repository name
 
 
 ##############################################
-# WHAT IS ALL THIS STUFF?
+# WHAT IS ALL THIS STUFF? SOME VOCABULARY.
 #---------------------
 # _config is easy. Most web sites have configuration files.
 # .yml means YAML. It's the data that runs your site.
@@ -113,6 +113,22 @@ colorchoice: navy # Navy with bright teal and grey
 #colorchoice: red # Black, crimson and grey
 #colorchoice: tan # Tan and deep brown with flame-bright orange
 #colorchoice: teal # Bright teal with bright orange-yellow accents
+
+# If you chose white with an accent color, choose the ACCENT you'd like to use.
+# You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
+# Uncomment the line for the color you like. Comment out all of the other lines.
+
+accentchoice: accent-darkred # Dark red
+#accentchoice: accent-red # Bright red
+#accentchoice: accent-pink # Deep pink
+#accentchoice: accent-orange # Tangerine Orange
+#accentchoice: accent-brown # Warm brown
+#accentchoice: accent-green # Kelly green
+#accentchoice: accent-navy # Navy blue
+#accentchoice: accent-blue # Medium blue
+#accentchoice: accent-bluegrey # Blue Grey
+#accentchoice: accent-purple # Grape purple
+#accentchoice: accent-grey # Mid Grey
 
 ##############################################
 # ORGANIZING YOUR COLLECTION
