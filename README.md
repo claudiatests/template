@@ -17,8 +17,8 @@ Each item in your collection will have an **item ID** (no spaces or punctuation)
 
 ## DigitalArc Template Features
 
-- Designed for remote-theme installation using the sample site at **[![template link](https://github.com/DigitalArcPlatform/template/)](https://github.com/DigitalArcPlatform/template/)
-**.
+- Designed for remote-theme installation using the sample site at https://github.com/DigitalArcPlatform/template/
+
 - Compatible with GitHub Pages, including support for Jekyll's built-in Sass/SCSS preprocessor, with no additional plug-ins or a standalone computer required
 - Seven different [color variations](https://digitalarcplatform.github.io/documentation/docs/publishSite/basics/typefaceColor/) and seven [font variations](https://digitalarcplatform.github.io/documentation/docs/publishSite/basics/typefaceColor/)
 
