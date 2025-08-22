@@ -5,7 +5,7 @@
 
 This DigitalArc demo repository provides a website template to communities looking for a free, easy-to-configure, and low-maintenance way to collect their stories digitally.
 
-The easiest way to use this theme is to log in to Github and use the "Use this Template" button on the main page of this repository, at [![template link](https://github.com/DigitalArcPlatform/template/)](https://github.com/DigitalArcPlatform/template/)
+The easiest way to use this theme is to log in to Github and use the "Use this Template" button on the main page of this repository.
 
 The **_config.yml** file contain the settings you’ll need for adding information and changing colors or fonts throughout the website. You can fill out a simple form to make your config file at [https://digitalarcplatform.kalanicraig.com/MakeConfigFile/](https://digitalarcplatform.kalanicraig.com/MakeConfigFile/)
 
